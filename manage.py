@@ -2,6 +2,7 @@
 """Django's command-line utility for administrative tasks."""
 # added git username and email
 # added new comment
+# changes made by another user
 import os
 import sys
 
