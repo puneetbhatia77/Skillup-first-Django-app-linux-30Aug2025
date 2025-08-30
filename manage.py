@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Django's command-line utility for administrative tasks."""
 # added git username and email
+# added new comment
 import os
 import sys
 
